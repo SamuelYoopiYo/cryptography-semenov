@@ -1,0 +1,2 @@
+^C:\USERS\SMNVS\SOURCE\REPOS\CRYPTOGRAPHY\LAB3\ESHKERE\ENCLAVE\ENCLAVE.EDL
+"C:\Users\smnvs\source\repos\cryptography\lab3\Eshkere\packages\Intel.SGX.SDK.2.22.100.2\build\native\\bin\win32\Release\sgx_edger8r.exe" --untrusted ".\..\Enclave\Enclave.edl" --search-path ".\..\Enclave;C:\Users\smnvs\source\repos\cryptography\lab3\Eshkere\packages\Intel.SGX.SDK.2.22.100.2\build\native\\include"
